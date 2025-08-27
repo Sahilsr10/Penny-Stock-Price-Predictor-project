@@ -6,6 +6,8 @@ A comprehensive machine learning-powered web application for analyzing and predi
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+<img width="1676" height="902" alt="Screenshot 2025-08-27 at 10 35 48 PM" src="https://github.com/user-attachments/assets/a58edd4a-4b9e-477a-972e-89042e434f90" />
+
 ## 🌟 Features
 
 - **Real-time Data Fetching**: Automatically retrieves historical stock data using Yahoo Finance API
